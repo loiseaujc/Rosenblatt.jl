@@ -1,0 +1,13 @@
+name = "Rosenblatt"
+uuid = "e663f624-a5ec-47ee-8096-c135aa8f0cb6"
+authors = ["Jean-Christophe <loiseau.jc@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
